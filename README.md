@@ -61,7 +61,7 @@
 
   <h2>Photo</h2>
 <div>
-    <img src="CB_scanner.PNG" alt="Tool Screen">
+    <img src="https://media.discordapp.net/attachments/962460257970425917/1242801696896192552/image.png?ex=664f28c6&is=664dd746&hm=7f3a5c8129d599d040947ab576f0e2e1c1e17b4adcc3bbcc1f167f1e6baae69b&=&format=webp&quality=lossless&width=859&height=428" alt="Tool Screen">
 </div>
 
 </html>
